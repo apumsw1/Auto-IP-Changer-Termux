@@ -11,7 +11,7 @@ A Termux utility that checks your public IP through Tor and requests a new Tor e
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Auto-IP-Changer-Termux.git
+git clone https://github.com/apumsw1/Auto-IP-Changer-Termux.git
 cd Auto-IP-Changer-Termux
 chmod +x install.sh autoip.sh
 ./install.sh
